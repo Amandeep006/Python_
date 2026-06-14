@@ -1,0 +1,1501 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1781428049000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
+        "title": "USGS All Earthquakes, Past Hour",
+        "status": 200,
+        "api": "2.4.0",
+        "count": 37
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.49,
+                "place": "14 km SW of Searles Valley, CA",
+                "time": 1781427600420,
+                "updated": 1781427808046,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41486200",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41486200.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 4,
+                "net": "ci",
+                "code": "41486200",
+                "ids": ",ci41486200,",
+                "sources": ",ci,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 14,
+                "dmin": 0.08494,
+                "rms": 0.08,
+                "gap": 169,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 0.5 - 14 km SW of Searles Valley, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.525,
+                    35.6855,
+                    10.09
+                ]
+            },
+            "id": "ci41486200"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.01,
+                "place": "18 km ENE of Thousand Palms, CA",
+                "time": 1781427543760,
+                "updated": 1781427746287,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41486192",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41486192.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 16,
+                "net": "ci",
+                "code": "41486192",
+                "ids": ",ci41486192,",
+                "sources": ",ci,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 43,
+                "dmin": 0.04645,
+                "rms": 0.16,
+                "gap": 63,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.0 - 18 km ENE of Thousand Palms, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.212666666667,
+                    33.8923333333333,
+                    7.8
+                ]
+            },
+            "id": "ci41486192"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.66,
+                "place": "4 km SE of Loma Linda, CA",
+                "time": 1781427240890,
+                "updated": 1781427443315,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41486184",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41486184.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 7,
+                "net": "ci",
+                "code": "41486184",
+                "ids": ",ci41486184,",
+                "sources": ",ci,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 28,
+                "dmin": 0.1277,
+                "rms": 0.16,
+                "gap": 71,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 0.7 - 4 km SE of Loma Linda, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.2275,
+                    34.0281666666667,
+                    17.91
+                ]
+            },
+            "id": "ci41486184"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.5,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781427124230,
+                "updated": 1781427221593,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376336",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376336.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 35,
+                "net": "nc",
+                "code": "75376336",
+                "ids": ",nc75376336,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 28,
+                "dmin": 0.008233,
+                "rms": 0.02,
+                "gap": 40,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.5 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.819999694824,
+                    38.8261680603027,
+                    1.95000004768372
+                ]
+            },
+            "id": "nc75376336"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.39,
+                "place": "25 km SW of Ocotillo Wells, CA",
+                "time": 1781426946130,
+                "updated": 1781427156453,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41486176",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41486176.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 2,
+                "net": "ci",
+                "code": "41486176",
+                "ids": ",ci41486176,",
+                "sources": ",ci,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 25,
+                "dmin": 0.04405,
+                "rms": 0.16,
+                "gap": 92,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 0.4 - 25 km SW of Ocotillo Wells, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.326666666667,
+                    32.9941666666667,
+                    4.5
+                ]
+            },
+            "id": "ci41486176"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.55,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781426886340,
+                "updated": 1781426981738,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376331",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376331.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 5,
+                "net": "nc",
+                "code": "75376331",
+                "ids": ",nc75376331,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 9,
+                "dmin": 0.009593,
+                "rms": 0.01,
+                "gap": 103,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 0.6 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.816665649414,
+                    38.8315010070801,
+                    1.42999994754791
+                ]
+            },
+            "id": "nc75376331"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.72,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781426614750,
+                "updated": 1781426711696,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376321",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376321.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 8,
+                "net": "nc",
+                "code": "75376321",
+                "ids": ",nc75376321,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 13,
+                "dmin": 0.009325,
+                "rms": 0.01,
+                "gap": 56,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 0.7 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.820335388184,
+                    38.8281669616699,
+                    1.36000001430511
+                ]
+            },
+            "id": "nc75376321"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.99,
+                "place": "1 km NNW of P\u0101hala, Hawaii",
+                "time": 1781426302520,
+                "updated": 1781426514120,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74981307",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74981307.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 61,
+                "net": "hv",
+                "code": "74981307",
+                "ids": ",hv74981307,",
+                "sources": ",hv,",
+                "types": ",origin,phase-data,",
+                "nst": 49,
+                "dmin": 0.03227,
+                "rms": 0.119999997,
+                "gap": 139,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 2.0 - 1 km NNW of P\u0101hala, Hawaii"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -155.48567199707,
+                    19.2185001373291,
+                    34.9900016784668
+                ]
+            },
+            "id": "hv74981307"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.63,
+                "place": "7 km NW of The Geysers, CA",
+                "time": 1781426177770,
+                "updated": 1781426271459,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376301",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376301.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 6,
+                "net": "nc",
+                "code": "75376301",
+                "ids": ",nc75376301,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 7,
+                "dmin": 0.004967,
+                "rms": 0,
+                "gap": 85,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 0.6 - 7 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.813667297363,
+                    38.8274993896484,
+                    1.27999997138977
+                ]
+            },
+            "id": "nc75376301"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.33,
+                "place": "7 km NW of The Geysers, CA",
+                "time": 1781426166400,
+                "updated": 1781426261751,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376296",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376296.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 27,
+                "net": "nc",
+                "code": "75376296",
+                "ids": ",nc75376296,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 20,
+                "dmin": 0.0168,
+                "rms": 0.03,
+                "gap": 40,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.3 - 7 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.814002990723,
+                    38.8266677856445,
+                    1.05999994277954
+                ]
+            },
+            "id": "nc75376296"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.06,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781426079770,
+                "updated": 1781426176576,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376291",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376291.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 17,
+                "net": "nc",
+                "code": "75376291",
+                "ids": ",nc75376291,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 15,
+                "dmin": 0.01129,
+                "rms": 0.01,
+                "gap": 48,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.1 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.820999145508,
+                    38.8258323669434,
+                    1.71000003814697
+                ]
+            },
+            "id": "nc75376291"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.04,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781426019520,
+                "updated": 1781426116191,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376286",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376286.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 17,
+                "net": "nc",
+                "code": "75376286",
+                "ids": ",nc75376286,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 18,
+                "dmin": 0.01629,
+                "rms": 0.01,
+                "gap": 49,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.0 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.816329956055,
+                    38.8303337097168,
+                    1.5900000333786
+                ]
+            },
+            "id": "nc75376286"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.93,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781425992770,
+                "updated": 1781426086377,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376281",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376281.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 13,
+                "net": "nc",
+                "code": "75376281",
+                "ids": ",nc75376281,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 10,
+                "dmin": 0.008304,
+                "rms": 0.01,
+                "gap": 67,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 0.9 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.820663452148,
+                    38.8226661682129,
+                    1.07000005245209
+                ]
+            },
+            "id": "nc75376281"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.1,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781425978140,
+                "updated": 1781428040638,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376276",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376276.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 19,
+                "net": "nc",
+                "code": "75376276",
+                "ids": ",nc75376276,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 8,
+                "dmin": 0.007208,
+                "rms": 0.02,
+                "gap": 79,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.1 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.815002441406,
+                    38.8294982910156,
+                    1
+                ]
+            },
+            "id": "nc75376276"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.22,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781425936950,
+                "updated": 1781426031377,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376271",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376271.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 23,
+                "net": "nc",
+                "code": "75376271",
+                "ids": ",nc75376271,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 9,
+                "dmin": 0.006734,
+                "rms": 0.01,
+                "gap": 65,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.2 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.815170288086,
+                    38.8288345336914,
+                    0.910000026226044
+                ]
+            },
+            "id": "nc75376271"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.05,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781425896670,
+                "updated": 1781425991585,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376266",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376266.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 17,
+                "net": "nc",
+                "code": "75376266",
+                "ids": ",nc75376266,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 21,
+                "dmin": 0.005811,
+                "rms": 0.02,
+                "gap": 46,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.1 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.814331054688,
+                    38.8281669616699,
+                    0.949999988079071
+                ]
+            },
+            "id": "nc75376266"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.73,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781425650990,
+                "updated": 1781425746103,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376256",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376256.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 8,
+                "net": "nc",
+                "code": "75376256",
+                "ids": ",nc75376256,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 12,
+                "dmin": 0.008451,
+                "rms": 0.01,
+                "gap": 68,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 0.7 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.820831298828,
+                    38.8224983215332,
+                    1.19000005722046
+                ]
+            },
+            "id": "nc75376256"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.98,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781425641620,
+                "updated": 1781425736207,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376251",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376251.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 15,
+                "net": "nc",
+                "code": "75376251",
+                "ids": ",nc75376251,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 13,
+                "dmin": 0.00905,
+                "rms": 0.01,
+                "gap": 56,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.0 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81566619873,
+                    38.8313331604004,
+                    1.22000002861023
+                ]
+            },
+            "id": "nc75376251"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.1,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781425572780,
+                "updated": 1781425666192,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376236",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376236.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 19,
+                "net": "nc",
+                "code": "75376236",
+                "ids": ",nc75376236,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 17,
+                "dmin": 0.009488,
+                "rms": 0.03,
+                "gap": 72,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.1 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.822166442871,
+                    38.8224983215332,
+                    0.920000016689301
+                ]
+            },
+            "id": "nc75376236"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.97,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781425539920,
+                "updated": 1781425636349,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376226",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376226.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 14,
+                "net": "nc",
+                "code": "75376226",
+                "ids": ",nc75376226,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 13,
+                "dmin": 0.009425,
+                "rms": 0.04,
+                "gap": 101,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.0 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.823165893555,
+                    38.8248329162598,
+                    1.38999998569489
+                ]
+            },
+            "id": "nc75376226"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.19,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781425485310,
+                "updated": 1781425582571,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376216",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376216.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 22,
+                "net": "nc",
+                "code": "75376216",
+                "ids": ",nc75376216,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 20,
+                "dmin": 0.008303,
+                "rms": 0.02,
+                "gap": 44,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.2 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.820503234863,
+                    38.8250007629395,
+                    1.67999994754791
+                ]
+            },
+            "id": "nc75376216"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.07,
+                "place": "7 km NW of The Geysers, CA",
+                "time": 1781425472830,
+                "updated": 1781425567633,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376211",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376211.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 18,
+                "net": "nc",
+                "code": "75376211",
+                "ids": ",nc75376211,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 17,
+                "dmin": 0.008819,
+                "rms": 0.02,
+                "gap": 59,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.1 - 7 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.820999145508,
+                    38.8211669921875,
+                    1.24000000953674
+                ]
+            },
+            "id": "nc75376211"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.51,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781425342270,
+                "updated": 1781427143546,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376196",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376196.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 35,
+                "net": "nc",
+                "code": "75376196",
+                "ids": ",nc75376196,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 12,
+                "dmin": 0.01242,
+                "rms": 0.02,
+                "gap": 67,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.5 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.821502685547,
+                    38.8326683044434,
+                    0.75
+                ]
+            },
+            "id": "nc75376196"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.04,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781425329710,
+                "updated": 1781425427362,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376191",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376191.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 17,
+                "net": "nc",
+                "code": "75376191",
+                "ids": ",nc75376191,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 19,
+                "dmin": 0.01273,
+                "rms": 0.02,
+                "gap": 58,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.0 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.820831298828,
+                    38.8330001831055,
+                    0.759999990463257
+                ]
+            },
+            "id": "nc75376191"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.3,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781425256660,
+                "updated": 1781425352069,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376186",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376186.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 26,
+                "net": "nc",
+                "code": "75376186",
+                "ids": ",nc75376186,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 24,
+                "dmin": 0.01175,
+                "rms": 0.02,
+                "gap": 53,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.3 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.820335388184,
+                    38.8320007324219,
+                    1.61000001430511
+                ]
+            },
+            "id": "nc75376186"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.26,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781425245520,
+                "updated": 1781425342325,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376181",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376181.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 24,
+                "net": "nc",
+                "code": "75376181",
+                "ids": ",nc75376181,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 7,
+                "dmin": 0.01259,
+                "rms": 0.01,
+                "gap": 147,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.3 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.820167541504,
+                    38.8346672058105,
+                    0.519999980926514
+                ]
+            },
+            "id": "nc75376181"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.09,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781425222250,
+                "updated": 1781425317349,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376176",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376176.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 18,
+                "net": "nc",
+                "code": "75376176",
+                "ids": ",nc75376176,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 18,
+                "dmin": 0.009084,
+                "rms": 0.01,
+                "gap": 59,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.1 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.821334838867,
+                    38.8256683349609,
+                    1.80999994277954
+                ]
+            },
+            "id": "nc75376176"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.3,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781425190670,
+                "updated": 1781425287477,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376171",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376171.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 26,
+                "net": "nc",
+                "code": "75376171",
+                "ids": ",nc75376171,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 11,
+                "dmin": 0.008825,
+                "rms": 0.01,
+                "gap": 60,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.3 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.816497802734,
+                    38.8306655883789,
+                    1.37999999523163
+                ]
+            },
+            "id": "nc75376171"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.57,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781425110640,
+                "updated": 1781425207312,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376161",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376161.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 5,
+                "net": "nc",
+                "code": "75376161",
+                "ids": ",nc75376161,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 7,
+                "dmin": 0.00681,
+                "rms": 0.01,
+                "gap": 147,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 0.6 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.813499450684,
+                    38.8296661376953,
+                    1.92999994754791
+                ]
+            },
+            "id": "nc75376161"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.89,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781425102280,
+                "updated": 1781425197278,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376156",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376156.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 12,
+                "net": "nc",
+                "code": "75376156",
+                "ids": ",nc75376156,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 9,
+                "dmin": 0.006738,
+                "rms": 0.02,
+                "gap": 88,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 0.9 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.817497253418,
+                    38.826831817627,
+                    0.990000009536743
+                ]
+            },
+            "id": "nc75376156"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.66,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781425089130,
+                "updated": 1781425187115,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376151",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376151.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 7,
+                "net": "nc",
+                "code": "75376151",
+                "ids": ",nc75376151,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 9,
+                "dmin": 0.00974,
+                "rms": 0.05,
+                "gap": 91,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 0.7 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.816329956055,
+                    38.8318328857422,
+                    0
+                ]
+            },
+            "id": "nc75376151"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.66,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781425084680,
+                "updated": 1781425182364,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376146",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376146.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 7,
+                "net": "nc",
+                "code": "75376146",
+                "ids": ",nc75376146,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 8,
+                "dmin": 0.007919,
+                "rms": 0.03,
+                "gap": 75,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 0.7 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.817832946777,
+                    38.828498840332,
+                    1.8400000333786
+                ]
+            },
+            "id": "nc75376146"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.4,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781424993910,
+                "updated": 1781428041638,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376141",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376141.geojson",
+                "felt": 7,
+                "cdi": 4.5,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 181,
+                "net": "nc",
+                "code": "75376141",
+                "ids": ",nc75376141,",
+                "sources": ",nc,",
+                "types": ",dyfi,focal-mechanism,nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 89,
+                "dmin": 0.01156,
+                "rms": 0.1,
+                "gap": 28,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 3.4 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81600189209,
+                    38.8339996337891,
+                    1.91999995708466
+                ]
+            },
+            "id": "nc75376141"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.79,
+                "place": "8 km NW of The Geysers, CA",
+                "time": 1781424966830,
+                "updated": 1781425062581,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376131",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75376131.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 10,
+                "net": "nc",
+                "code": "75376131",
+                "ids": ",nc75376131,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 20,
+                "dmin": 0.01304,
+                "rms": 0.02,
+                "gap": 63,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 0.8 - 8 km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.818496704102,
+                    38.8346672058105,
+                    1.79999995231628
+                ]
+            },
+            "id": "nc75376131"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.76,
+                "place": "25 km SW of Ocotillo Wells, CA",
+                "time": 1781424964850,
+                "updated": 1781425166287,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41486168",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41486168.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 9,
+                "net": "ci",
+                "code": "41486168",
+                "ids": ",ci41486168,",
+                "sources": ",ci,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 38,
+                "dmin": 0.04181,
+                "rms": 0.21,
+                "gap": 50,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 0.8 - 25 km SW of Ocotillo Wells, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.330333333333,
+                    32.9898333333333,
+                    4.64
+                ]
+            },
+            "id": "ci41486168"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1,
+                "place": "34 km SSW of Los Ybanez, Texas",
+                "time": 1781424860935,
+                "updated": 1781427656658,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026lprjkt",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2026lprjkt.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 15,
+                "net": "tx",
+                "code": "2026lprjkt",
+                "ids": ",tx2026lprjkt,",
+                "sources": ",tx,",
+                "types": ",origin,phase-data,",
+                "nst": 12,
+                "dmin": 0.1,
+                "rms": 0.4,
+                "gap": 164,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.0 - 34 km SSW of Los Ybanez, Texas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.074,
+                    32.44,
+                    5.0701
+                ]
+            },
+            "id": "tx2026lprjkt"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.53,
+                "place": "24 km ESE of Julian, CA",
+                "time": 1781424682510,
+                "updated": 1781424893517,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41486160",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41486160.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 4,
+                "net": "ci",
+                "code": "41486160",
+                "ids": ",ci41486160,",
+                "sources": ",ci,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 25,
+                "dmin": 0.06479,
+                "rms": 0.15,
+                "gap": 85,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 0.5 - 24 km ESE of Julian, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.3585,
+                    33.0196666666667,
+                    12.07
+                ]
+            },
+            "id": "ci41486160"
+        }
+    ],
+    "bbox": [
+        -155.48567199707,
+        19.218500137329,
+        0,
+        -102.074,
+        38.83466720581,
+        34.990001678467
+    ]
+}
