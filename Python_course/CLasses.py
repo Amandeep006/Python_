@@ -5,14 +5,14 @@
 #         self.name = name # self is a convention used to refer to the instance of the class. It is used to access the attributes and methods of the class.
 #         self.age = age
 
-#     def sit(self):
+#     def sit(self):  # It is the Instance methods
 #         print(f"{self.name} is now sitting")
 
 #     def roll_over(self):
 #         print(f"{self.name} rolled over !")
 
 # """Making an instance from a class """
-# my_dog= Dog("Tommy",3) # Create an instance of the dog class. The name of the instance is my_dog. The name of the class is Dog
+# my_dog= Dog("Tommy",3) # Create an instance of the dog class. The name of the instance is my_dog. The name of the class is Dog. and my_dog is object of the class dog.
 # print(f"MY dog's name is {my_dog.name}") # my_dog.name is used to access the name attribute of the my_dog instance. The name attribute is defined in the __init__ method of the Dog class.
 # print(f"My dog is {my_dog.age} years old. ")
 
